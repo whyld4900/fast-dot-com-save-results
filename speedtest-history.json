@@ -1,0 +1,16 @@
+[
+	{
+		"isDone": true,
+		"domain": "rbb",
+		"date": "2020-08-24T02:31:29.474Z",
+		"speed": 250,
+		"rate": "Mbps"
+	},
+	{
+		"isDone": true,
+		"domain": "rbb",
+		"date": "2020-08-24T02:32:06.503Z",
+		"speed": 240,
+		"rate": "Mbps"
+	}
+]
